@@ -1,0 +1,32 @@
+.banner {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  font-family: "The Nautigal", cursive;
+  font-family: "Work Sans", sans-serif;
+  background-image: url(../images/banner/banner3.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.banner-font-portion {
+  margin-left: 1650px;
+  padding-top: 230px;
+  padding-bottom: 466px;
+  width: 800px;
+}
+.banner-description {
+  text-align: right;
+  font-weight: 700px;
+  color: rgba(255, 255, 255, 1);
+}
+.banner-description h3 {
+  font-size: 65px;
+}
+.banner-description p {
+  font-size: 35px;
+}
+.btn-contact {
+  color: rgba(0, 95, 172, 1);
+  padding: 26px 21px;
+  font-size: 20px;
+  font-weight: 600px;
+}
